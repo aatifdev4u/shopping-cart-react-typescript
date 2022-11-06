@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aatifdev4u/shopping-cart-react-typescript.git/static/css/main.c59cc657.css",
+    "main.js": "/aatifdev4u/shopping-cart-react-typescript.git/static/js/main.6ab12eaf.js",
+    "index.html": "/aatifdev4u/shopping-cart-react-typescript.git/index.html",
+    "main.c59cc657.css.map": "/aatifdev4u/shopping-cart-react-typescript.git/static/css/main.c59cc657.css.map",
+    "main.6ab12eaf.js.map": "/aatifdev4u/shopping-cart-react-typescript.git/static/js/main.6ab12eaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59cc657.css",
+    "static/js/main.6ab12eaf.js"
+  ]
+}
